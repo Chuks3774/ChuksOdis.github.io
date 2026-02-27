@@ -1,9 +1,9 @@
 title: "Chukwudi Odimegwu"
-description: "Data Engineer | Business Analyst"
-url: "https://Chuks3774.github.io"
+description: "Business Analyst | Data Engineer | MSc Business Analytics"
+url: "https://chuks3774.github.io"
 baseurl: ""
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
