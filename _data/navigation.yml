@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /#projects
+  - title: "GitHub"
+    url: "https://github.com/Chuks3774"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/www.linkedin.com/in/chuks-odis-902662261"
