@@ -1,6 +1,7 @@
 ---
-layout: home
-author_profile: true
+layout: single
+title: "Chukwudi Odimegwu"
+permalink: /
 ---
 
 ## About Me
@@ -37,3 +38,7 @@ Python-based workflow automation for reporting efficiency.
 ### RushMore Pizzeria App
 Application development supporting business operations.  
 [View Project](https://github.com/Chuks3774/RushMore-Pizzarie-App)
+## Contact
+- Email:odischuks@gmail.com
+- Github:(https://github.com/Chuks3774
+- Linkedln: www.linkedin.com/in/chuks-odis-902662261
