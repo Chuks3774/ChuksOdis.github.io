@@ -1,6 +1,20 @@
-url: "https://chuks3774.github.io"
+title: "Chukwudi Odimegwu"
+description: "Business Analyst | Data Engineer | MSc Business Analytics"
+url: "https://ChuksOdis.github.io"
 baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
+
+author:
+  name: "Chukwudi Odimegwu"
+  bio: "Business Analyst | Data Engineer | Strategy & Growth Modelling"
+  location: "Scotland, United Kingdom"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Chuks3774"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yourprofile"
